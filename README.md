@@ -5,7 +5,7 @@ Below you have a series of problems in which you are asked to edit the notebook 
 
 ## Completing the exercise
 
-- **Exercise 3 is due by the start of the next lesson (21 September 2024)**.
+- **Exercise 3 is due by the start of the next lesson (15 February 2025)**.
 - **Remember to save and commit your changes locally (i.e., download your notebooks), and push (or upload) your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
